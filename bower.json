@@ -1,0 +1,8 @@
+{
+  "name": "skilltree",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "typed.js": "*"
+  },
+  "devDependencies": {}
+}
